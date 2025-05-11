@@ -1,8 +1,8 @@
-## School Vaccination Portal
+# School Vaccination Portal
 
 A web-based vaccine tracking system designed for school vaccination administration, tracking, and management.
 
-## Features
+# Features
 
 - Authentication & Access Control
 - Dashboard Overview
@@ -10,22 +10,22 @@ A web-based vaccine tracking system designed for school vaccination administrati
 - Vaccination Drive Management
 - Reports Generation
 
-## Prerequisites
+# Prerequisites
 
 - Node.js (v16+)
 - MongoDB (local)
 - npm
 
-## Setup Instructions
+# Setup Instructions
 
-# At backend
--cd ..\FSD_School_Vaccination_Portal\backend
--npm install
--npm start
+## At backend
+- cd ..\FSD_School_Vaccination_Portal\backend
+- npm install
+- npm start
 
-# At frontend
--cd ..\FSD_School_Vaccination_Portal\frontend
--npm install
--npm start
--will automatically navigate to default browser to start the web app at "http://localhost:3000/login"
+## At frontend
+- cd ..\FSD_School_Vaccination_Portal\frontend
+- npm install
+- npm start
+- will automatically navigate to default browser to start the web app at "http://localhost:3000/login"
 
